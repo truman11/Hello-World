@@ -1,2 +1,2 @@
 # Hello-World
-testing my it skills
+testing my git skills
